@@ -1,0 +1,13 @@
+total 44
+drwxr-xr-x 2 frorry frorry 4096 Oct 16 12:51 .
+drwxr-xr-x 6 frorry frorry 4096 Oct 16 10:04 ..
+-rwxr--r-- 1 frorry frorry   32 Oct 16 10:07 0-hello_world
+-rwxr--r-- 1 frorry frorry   28 Oct 16 10:17 1-confused_smiley
+-rwxr--r-- 1 frorry frorry   28 Oct 16 10:19 2-hellofile
+-rwxr--r-- 1 frorry frorry   39 Oct 16 10:22 3-twofiles
+-rwxr--r-- 1 frorry frorry   35 Oct 16 10:41 4-lastlines
+-rwxr--r-- 1 frorry frorry   35 Oct 16 10:43 5-firstlines
+-rwxr--r-- 1 frorry frorry   40 Oct 16 12:24 6-third_line
+-rwxr--r-- 1 frorry frorry   90 Oct 16 12:48 7-file
+-rw-r--r-- 1 frorry frorry   26 Oct 16 10:11 README.md
+-rw-r--r-- 1 frorry frorry    0 Oct 16 12:51 ls_cwd_content
